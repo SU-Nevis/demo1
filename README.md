@@ -3,4 +3,8 @@ How to work with github
 
 # Test
 
-My fisrt line in Github
+My first line in Github
+
+# Test2 
+
+The second line of testing in githhub
